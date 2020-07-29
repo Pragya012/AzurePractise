@@ -1,0 +1,7 @@
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\bin\Debug\AzurePractiseExample.exe.config
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\bin\Debug\AzurePractiseExample.exe
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\bin\Debug\AzurePractiseExample.pdb
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\obj\Debug\AzurePractiseExample.csprojAssemblyReference.cache
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\obj\Debug\AzurePractiseExample.csproj.CoreCompileInputs.cache
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\obj\Debug\AzurePractiseExample.exe
+C:\Users\500054282\Desktop\LTI\Devops\Azure\AzurePractiseSolution\AzurePractiseExample\obj\Debug\AzurePractiseExample.pdb
